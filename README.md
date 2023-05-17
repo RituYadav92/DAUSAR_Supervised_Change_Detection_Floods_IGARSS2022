@@ -8,6 +8,7 @@ Due to climate and land-use change, natural disasters such as flooding have been
 
 <img src="https://github.com/RituYadav92/DAUSAR_Supervised_Change_Detection_Floods_IGARSS2022/blob/main/DAUSAR.JPG" alt="alt text" width="1000" height="500"> 
 
+Dataset prepared for the work can be downloaded from : https://zenodo.org/record/7946594 [DOI :10.5281/zenodo.7946594]
 ## Contact Information 
 Ritu Yadav (Email: er.ritu92@gmail.com)
 
