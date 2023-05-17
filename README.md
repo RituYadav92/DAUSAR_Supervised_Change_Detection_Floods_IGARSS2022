@@ -19,6 +19,7 @@ Ritu Yadav (Email: er.ritu92@gmail.com)
 [DOI : 10.1109/IGARSS46834.2022.9883132]
 
 @INPROCEEDINGS{9883132,
+
           author={Yadav, Ritu and Nascetti, Andrea and Ban, Yifang},
   
           booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium}, 
