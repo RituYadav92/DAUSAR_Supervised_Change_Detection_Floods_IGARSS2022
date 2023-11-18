@@ -15,15 +15,18 @@ We published the dataset here : https://zenodo.org/record/7946594
 Ritu Yadav (Email: er.ritu92@gmail.com)
 
 ## Cite
+## If you are using this work, please cite:
+```bash
+  @INPROCEEDINGS{9883132,
+          author={Yadav, Ritu and Nascetti, Andrea and Ban, Yifang},  
+          booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium},   
+          title={Attentive Dual Stream Siamese U-Net for Flood Detection on Multi-Temporal Sentinel-1 Data},   
+          year={2022},  
+          volume={},  
+          number={},  
+          pages={5222-5225},  
+          doi={10.1109/IGARSS46834.2022.9883132}}
+``` 
 
-[DOI : 10.1109/IGARSS46834.2022.9883132]
 
-          @INPROCEEDINGS{9883132,
-                    author={Yadav, Ritu and Nascetti, Andrea and Ban, Yifang},  
-                    booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium},   
-                    title={Attentive Dual Stream Siamese U-Net for Flood Detection on Multi-Temporal Sentinel-1 Data},   
-                    year={2022},  
-                    volume={},  
-                    number={},  
-                    pages={5222-5225},  
-                    doi={10.1109/IGARSS46834.2022.9883132}}
+         
