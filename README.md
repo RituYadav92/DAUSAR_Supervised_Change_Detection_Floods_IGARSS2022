@@ -10,7 +10,6 @@ We published the dataset here : https://zenodo.org/record/7946594
 
 <img src="https://github.com/RituYadav92/DAUSAR_Supervised_Change_Detection_Floods_IGARSS2022/blob/main/DAUSAR.JPG" alt="alt text" width="1000" height="500"> 
 
-## Cite
 ## If you are using this work, please cite:
 ```bash
   @INPROCEEDINGS{9883132,
@@ -24,7 +23,7 @@ We published the dataset here : https://zenodo.org/record/7946594
           doi={10.1109/IGARSS46834.2022.9883132}
   }
 ``` 
-## Contact Information, Corresponding Author
+## Contact Information/ Corresponding Author
 Ritu Yadav (Email: er.ritu92@gmail.com)
 
          
