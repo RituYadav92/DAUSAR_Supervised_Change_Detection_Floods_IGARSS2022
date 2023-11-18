@@ -21,9 +21,10 @@ We published the dataset here : https://zenodo.org/record/7946594
           volume={},  
           number={},  
           pages={5222-5225},  
-          doi={10.1109/IGARSS46834.2022.9883132}}
+          doi={10.1109/IGARSS46834.2022.9883132}
+  }
 ``` 
-## Contact Information/ Corresponding Author
+## Contact Information, Corresponding Author
 Ritu Yadav (Email: er.ritu92@gmail.com)
 
          
