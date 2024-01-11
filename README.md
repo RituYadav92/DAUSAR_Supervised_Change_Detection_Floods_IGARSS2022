@@ -10,17 +10,17 @@ We published the dataset here : https://zenodo.org/record/7946594
 
 <img src="https://github.com/RituYadav92/DAUSAR_Supervised_Change_Detection_Floods_IGARSS2022/blob/main/DAUSAR.JPG" alt="alt text" width="1000" height="500"> 
 
-## Citation:
+## Paper Citation:
 ```bash
-### Paper
   @INPROCEEDINGS{9883132,
           author={Yadav, Ritu and Nascetti, Andrea and Ban, Yifang},  
           booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium},   
           title={Attentive Dual Stream Siamese U-Net for Flood Detection on Multi-Temporal Sentinel-1 Data},   
           year={2022}, volume={}, Number={}, pages={5222-5225},  doi={10.1109/IGARSS46834.2022.9883132}
   }
-
-### Dataset
+```
+## Dataset Citation:
+```bash
 Ritu Yadav, “Modified Sen1Floods11 Dataset for Change Detection”. Zenodo, May 17, 2023. doi: 10.5281/zenodo.7946594.
 ```
 
